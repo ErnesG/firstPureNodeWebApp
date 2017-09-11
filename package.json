@@ -1,0 +1,14 @@
+{
+  "name": "firstnodewebapp",
+  "version": "1.0.0",
+  "description": "A server made form best node practices",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ernesto G",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
